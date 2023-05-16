@@ -21,8 +21,10 @@ The app is deployed here: [Semantic-Search-Engine](https://huggingface.co/spaces
 ## To run it locally
 1. Clone the repository
 2. Set up a virtual env (Python)
-3. run ``` $ pip install -r requirements.txt ```
-5. run ``` $ streamlit run "Path-to-Repo\Semantic-Search-Engine\app.py" ```
+3. Login at [SerpApi](https://serpapi.com/) and get an API key.
+4. Make a file called config.py and add ```api_key="ENTER YOUR KEY HERE" ``` in the file.
+5. run ``` $ pip install -r requirements.txt ```
+6. run ``` $ streamlit run "Path-to-Repo\Semantic-Search-Engine\app.py" ```
 
 ## Video Demo
 The video demo can be seen here: 
