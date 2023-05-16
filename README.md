@@ -18,5 +18,11 @@ The Streamlit template I used was made by Fabio Chiusano [(link)](https://huggin
 ## Deployment
 The app is deployed here: [Semantic-Search-Engine](https://huggingface.co/spaces/siddhartha-mahajan/Semantic-Search-Engine).
 
+## To run it locally
+1. Clone the repository
+2. Set up a virtual env (Python)
+3. run ``` $ pip install -r requirements.txt ```
+5. run ``` $ streamlit run "Path-to-Repo\Semantic-Search-Engine\app.py" ```
+
 ## Video Demo
 The video demo can be seen here: 
