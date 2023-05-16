@@ -1,0 +1,5 @@
+sentence-transformers
+pandas
+streamlit
+altair<5
+google-search-results
