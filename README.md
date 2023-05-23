@@ -27,4 +27,4 @@ The app is deployed here: [Semantic-Search-Engine](https://huggingface.co/spaces
 6. run ``` $ streamlit run "Path-to-Repo\Semantic-Search-Engine\app.py" ```
 
 ## Video Demo
-The video demo can be seen here: 
+The video demo can be seen here: [link](https://youtu.be/6jq1CLPI33g)
